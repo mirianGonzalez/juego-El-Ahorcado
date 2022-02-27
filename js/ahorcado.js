@@ -2,7 +2,7 @@
 
 function horca(errores){
     var imagen = new Image();
-    imagen.src = "./imagenes/Ahorcado"+errores+".png";
+    imagen.src = "imagenes/Ahorcado"+errores+".png";
     imagen.onload = function(){
         ctx.drawImage(imagen, 390, 0, 230, 230);
     }
