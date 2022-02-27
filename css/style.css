@@ -1,0 +1,119 @@
+body{
+    background-color: #4ecfa9;
+}
+#pantalla{
+    border: groove 8px rgb(152, 27, 201);
+    background: rgb(102, 214, 186);   
+    opacity: 0.7;
+    margin: 0 6.5%;
+    
+}
+#iniciar-juego{
+    background-color: rgb(27, 3, 83);
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    font-weight: bolder;
+    padding: 10px;
+    margin: 0 37.5%;
+    border: solid 2px rgb(77, 69, 69);
+    border-radius: 10px;
+
+}
+h1 {
+    color: rgb(5, 4, 20);
+    text-align: center;
+}
+
+h2 {
+    
+    color: rgb(36, 3, 44);
+    margin: auto;
+    margin-top: 15px;
+    text-align: left;
+}
+.subtitle{
+    color: #ffffff;
+    font-size: 2em;
+}
+
+h3 {
+    width: 400px;
+    color: rgb(39, 5, 54);
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+    margin-top: 15px;
+    text-align: center;
+}
+h4 {
+    color: rgb(8, 3, 22);
+    margin: auto;
+    margin-top: 10px;
+    text-align: left;
+}
+
+p {
+    color: white;
+    margin: auto;
+}
+
+#div-class{
+    background-color: #4ecfa9;
+    padding: 30px;
+    margin: 40;
+}
+
+.clickme {
+    color: #005BBB;
+}
+.text-input {
+    border-radius: 0.5em;
+    border: 1px solid rgba(182, 110, 110, 0.2);
+    display: block;
+    padding: 0.5em;
+    width: 40%;
+    height: 50px;
+}
+.btn { 
+    background-color: lightcoral;
+    font-size: 22px;
+    border: groove 4px rgb(106, 15, 158);
+}
+
+.btn:before {
+    background: rgba(96, 158, 212, 0.2);
+    top: 50px;
+    left: 20px;
+    width: 200px;
+    height: 100%;
+    content: "";
+}
+form {
+    background-color: rgb(11, 5, 63);
+    top: 50px;
+    width: 500px;
+    height: 300%;
+    border: solid 2px rgb(77, 69, 69);
+    border-radius: 10px;
+    margin: 0 37.5%;
+}
+.checkbox{
+    font-size: 15px;
+    color:#ffffff;
+}
+footer {
+    font-size:20px;
+    color:#ffffff;
+    padding-top:20px;
+    padding-bottom:20px;
+    padding-left:40px;
+    padding-right:40px;
+    background-color:#268d45;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-shadow: 2px 2px 2px rgb(17, 17, 17);
+}
+.copyright{
+    margin: 0 15.%;
+
+}
