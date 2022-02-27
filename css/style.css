@@ -6,7 +6,7 @@ body{
     background: rgb(102, 214, 186);   
     opacity: 0.7;
     margin: 0 6.5%;
-    
+    overflow:hidden;
 }
 #iniciar-juego{
     background-color: rgb(27, 3, 83);

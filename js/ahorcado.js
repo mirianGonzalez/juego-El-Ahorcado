@@ -1,4 +1,5 @@
 /* imagenes de la horca y las partes del cuerpo de Mica según  el caso */
+
 function horca(errores){
     var imagen = new Image();
     imagen.src = "./imagenes/Ahorcado"+errores+".png";
